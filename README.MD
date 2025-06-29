@@ -39,7 +39,10 @@ BMI
 Diabetes Pedigree Function
 
 Age
+
+
 ⚙️ How to Run Locally
+
 Install dependencies
 Step 1: pip install pandas,scikit-learn,pickle,flask
 Step 2: Run the app.py
