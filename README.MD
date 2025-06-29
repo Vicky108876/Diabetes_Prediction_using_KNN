@@ -1,4 +1,5 @@
 🩺 Diabetes Prediction Using KNN
+
 This project is a machine learning web application that predicts whether a person is diabetic or not using the K-Nearest Neighbors (KNN) algorithm. It features a clean, user-friendly frontend and a Python-Flask backend, and uses a trained model with standardized inputs for accurate prediction.
 
 Features
