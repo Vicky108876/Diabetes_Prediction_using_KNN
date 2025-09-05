@@ -17,7 +17,7 @@ This project is a machine learning web application that predicts whether a perso
 ✅ Input data is standardized for better accuracy
 
 
-#Technologies Used
+# Technologies Used
 
 Python
 
@@ -60,4 +60,5 @@ Step 2: Run the app.py
 # Open Browser
 
 Step 3: http://127.0.0.1:5000
+
 
