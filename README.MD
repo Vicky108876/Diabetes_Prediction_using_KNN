@@ -53,13 +53,14 @@ Age
 
 Install dependencies
 
-Step 1: pip install pandas, scikit-learn, pickle, flask
+Step 1: pip install pandas scikit-learn pickle flask
 
 Step 2: Run the app.py
 
 # Open Browser
 
 Step 3: http://127.0.0.1:5000
+
 
 
 
